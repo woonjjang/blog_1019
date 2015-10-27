@@ -1,0 +1,50 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+html, body {
+  font-family: "Nanum Gothic", '맑은 고딕', Dotum, sans-serif;
+  -webkit-font-smoothing:antialiased;
+  font-size: 14px;
+  color: #555;
+  line-height: 26px;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #edeef2;
+}
+
+.open-sans{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+ul, li{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+a{
+  color: #555;
+}
+
+h3{
+  margin-top: 0px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Nanum Gothic", '맑은 고딕', Dotum, sans-serif;
+}
+
+
